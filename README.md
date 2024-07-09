@@ -1,4 +1,6 @@
 # PySimpleGUI-GPL-Mirror
+## This repository is not affiliated with or endorsed by the original PySimpleGUI project.
+
 
 Mirored version of my favorite GUI python module PySimpleGUI.
 
